@@ -34,3 +34,5 @@ class hashTable:
 		for i in range(len(self.data)):
 			if self.data[i]: vs.append(self.data[i][0][1])
 		return vs
+
+		
